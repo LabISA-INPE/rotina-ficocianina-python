@@ -1,0 +1,6 @@
+name: ficocianina
+channels:
+  - defaults
+dependencies:
+  - python=3.11.4
+  - pandas=2.0.3
